@@ -1,0 +1,13 @@
+[package]
+name = "dust"
+version = "0.1.0"
+authors = ["Jansen Jan <farodin91@sek-server.de>"]
+
+[lib]
+plugin = true
+name = "dust"
+
+[dependencies]
+proc-macro2 = "0.2"
+
+
