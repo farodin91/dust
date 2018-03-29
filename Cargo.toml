@@ -2,6 +2,10 @@
 name = "dust"
 version = "0.1.0"
 authors = ["Jansen Jan <farodin91@sek-server.de>"]
+repository = "https://github.com/farodin91/dust"
+license = "MIT"
+readme = "README.md"
+description = "Dust allows to build easy data driven tests in Rust"
 
 [lib]
 plugin = true
